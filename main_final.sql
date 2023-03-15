@@ -1,4 +1,4 @@
-/* Create database for Group17 */
+/* Create database */
 
 drop database if exists main_db
 
