@@ -7,3 +7,8 @@ Design and development of a database for a logistics company to manage all order
 3. Logical Data Model  
 4. SQL Up/Down script to implement internal model, load/migrate data and data logic for external model.  
 
+## 1. Entities, Relations
+Buyer places Orders which are accepted by Suppliers, who ship Commodities included in that order to Warehouse and Buyer receives the order via Shipping.
+
+## 2. Conceptual Data Model
+!(/Piyush987/Database-Design/blob/main//Conceptual Diagram.jpg?raw=true)
